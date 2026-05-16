@@ -100,8 +100,11 @@ export DISPLAY=:0 && ./src/gui/gui
 ---
 
 ## Screenshots
-
-> Add screenshots here
+<img width="638" height="388" alt="Screenshot 2026-05-16 114420" src="https://github.com/user-attachments/assets/2e31e047-bf91-4b9b-af96-422931c171e1" />
+<img width="631" height="391" alt="Screenshot 2026-05-16 114653" src="https://github.com/user-attachments/assets/81e68480-ac94-4029-847b-58c0279e7cc6" />
+<img width="620" height="372" alt="Screenshot 2026-05-16 115653" src="https://github.com/user-attachments/assets/b2cce757-36ee-480b-9fc1-3e1098c0b464" />
+<img width="628" height="342" alt="Screenshot 2026-05-16 115456" src="https://github.com/user-attachments/assets/830eead0-e884-4448-8104-e92bf626063c" />
+<img width="613" height="347" alt="Screenshot 2026-05-16 115434" src="https://github.com/user-attachments/assets/31a70e5a-9908-480a-a854-e0342c70b742" />
 
 ---
 
